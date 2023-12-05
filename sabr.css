@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    
+}
+body{
+   background-color:#f1f1f1 ; 
+}
+.contenr{
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+.ww{
+    text-align: center;
+    padding: 100px 0px 20px 0px;
+    font-weight:800;
+    font-size: 70px;
+}
+.first{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+.left{
+    width: 65%;
+    background-color:#f1f1f1 ;
+    margin-top: 40px;
+
+}
+.left1{background-color: white; height: 759px ;}
+.s1{
+    font-size: 30px;
+    padding: 20px;
+}
+.s2{
+    font-size: 30px;
+    padding: 20px;
+}
+.s3{
+    color: grey;
+    padding: 5px;
+}
+.s4{
+    padding: 20px;
+    font-size: 23px;
+}
+.s5{
+    margin-left: 20px;
+    height: 60px;
+    width: 200px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
+.s6{
+    margin-left: 800px;
+    font-size: 30px;
+}
+.s7{
+  
+    background-color: black;
+    color: white;
+padding: 0px 6px;
+    height: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.left2{
+    margin-top: 50px;
+    background-color:white;
+    height: 759px ;
+}
+.s5:hover{
+    background-color: grey;
+    color: white;  
+}
+.rihgt{
+    height: 100vh;
+   
+    margin-left:55px;
+    margin-top: 39px;
+    width: 33%;
+
+}
+.rihgt1{
+    background-color: white;
+}
+#s10{
+    background-color:rgb(190, 189, 189);
+    padding: 24px;
+    
+
+}
+.rihgt2{
+    background-color: white;
+    margin-top: 40px;
+}
+.rihgt2 img{
+    width: 90px;
+    height: 90px;
+    padding: 20px;
+}
+.rihgt21{
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+#s11{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.rihgt3{
+    margin-top: 40px;
+    background-color: white;
+    
+}
+.rihgt31{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ss1{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    margin: 15px;
+}
+.ss2{
+    padding: 5px;
+    background-color: rgb(201, 197, 197);
+    
+    margin: 15px;
+
+}
+.footer{
+    background-color: #616161;
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+}
+.f1{
+    margin: 50px;
+    height: 60px;
+    width: 200px;
+    background-color:grey;
+    font-size: 20px;
+    color: rgb(197, 192, 192);
+    font-weight: 600;
+}
+.f2{
+    height: 60px;
+    width: 200px;
+    background-color:black;
+    font-size: 20px;
+    color:white;
+    font-weight: 600;
+
+}
+.footer h1{
+    color: white;
+    margin: 50px;
+}
